@@ -37,3 +37,9 @@ This principle promotes splitting of interfaces as required so that concrete cla
 The Dependency Inversion principle states that our classes should depend upon interfaces or abstract classes instead of concrete classes and functions.
 
 
+
+## References
+
+Check the following Udemy course for beginners 
+
+https://www.udemy.com/course/solid-design/
