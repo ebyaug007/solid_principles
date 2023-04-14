@@ -1,13 +1,12 @@
 
 # SOLID Principles
 
-    These are five principles of Object Oriented class design. They are set of rules and best practices that needs to be followed while creating classes.
-
-    - Single Responsibility Principle
-    - Open-Closed Principle
-    - Liskov Substitution Principle
-    - Interface Segregation Principle
-    - Dependency Inversion Principle
+These are five principles of Object Oriented class design. They are set of rules and best practices that needs to be followed whilecreating classes.
+- **Single Responsibility Principle**
+- **Open-Closed Principle**
+- **Liskov Substitution Principle**
+- **Interface Segregation Principle**
+- **Dependency Inversion Principle**
 
 ### Single Responsibility Principle
 
